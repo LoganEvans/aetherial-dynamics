@@ -1,0 +1,9 @@
+# My philosophy on academic honesty in the age of AI
+
+**Author:** Logan P. Evans
+
+It's a new age of science. As I've worked with Gemini on this project, at first I used it as a tool to explore wild ideas as a way to develop my understanding of conventional physics. Then, my redshifted gravity idea exploded into a beautiful model. In the early phases, I felt like I deserved full credit for the ideas, but when the project delved into math I didn't recognize and Gemini solved problems I would have no hope of solving by myself, my feelings about credit shifted. I directed the investigation, but deriving a lot of what is here is so far beyond my abilities that it feels silly to pretend I made these discoveries by myself.
+
+AI collaboration is the new reality, and I don't know of any norms about how to deal with the transparency issues of this technology. Perhaps in ten years, it will go without saying that all papers will have some level of human/AI collaboration and no one will acknowledge the AI help. At this moment in history, I doubt anyone cares or will care much how transparent the level of collaboration was. However, around the time that Gemini casually mentioned that a property of the eta field solved the phenomenon of dark matter, I started to suspect that this may not be just another project.
+
+I can't claim full ownership of Aetherial Dynamics right now. I don't understand the math, I haven't verified the math, and I haven't convinced myself that it's correct. However, there is a threshold where I will have earned true intellectual ownership of the results produced here: I need to be able to write the papers entirely in my own words. In order to do that, I need to be able to derive the equations myself, and I need to be able to understand all of the science. I'm certainly not at that point yet, but I'm committed to work toward that level of full mastery.
