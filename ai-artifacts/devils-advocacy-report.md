@@ -31,7 +31,6 @@ These are claims presented as fact where the detailed derivation or data is miss
 
 *   **[UV-1] The Value of `Γ`:** In the ghost analysis, the stability depends on the constant `Γ ≈ 0.005`, which is the result of a "lengthy calculation" that is not provided. The entire stability proof rests on this unverified number.
 *   **[UV-2] The Values of `β₀` and `M`:** The fundamental constants of the interaction term (`β₀ ≈ 122.7`, `M ≈ 2.4e-3 eV/c²`) are stated to be fixed by "simulations" of dwarf galaxies and clusters. The details, code, and methodology of these crucial simulations are not provided.
-*   **[UV-3] The `η_void` Calculation:** The formula for the cosmological background potential, `η_{void} = -f_1 Ω_b c²` with `f_1 ≈ 1`, is presented as a "standard relativistic calculation." This is the most significant black box, as this formula is one half of the equation that yields the `Ω_b ≈ 0.192` prediction. Without its derivation, the prediction cannot be independently verified.
 
 ## 4. Mathematical & Logical Gaps
 These are areas where the provided logic or mathematics does not fully support the conclusion.
